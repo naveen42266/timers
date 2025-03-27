@@ -1,3 +1,27 @@
+# ⏱️ Timer App (React Native)
+
+A customizable timer application with categories, progress tracking, and history logging. Built with React Native, TypeScript, and AsyncStorage for local data persistence.
+
+![App APK](https://drive.google.com/file/d/1CjtUYdLNq_RvHywV2HG25fYozfNr0WjZ/view?usp=sharing)
+
+## ✨ Features
+- 🕒 **Multiple Timers**: Create, start, pause, and reset timers
+- 📂 **Categories**: Organize timers into expandable categories (Workout, Study, Break, etc.)
+- 📊 **Progress Visualization**: See time remaining with progress bars
+- ⚡ **Bulk Actions**: Start/pause/reset all timers in a category at once
+- 🛎️ **Alerts**: Halfway and completion notifications
+- 📜 **History Log**: Track completed timers with timestamps
+- 🎨 **Clean UI**: Intuitive design with your brand color (#EB5B00)
+
+## 📦 Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/naveen42266/timers.git
+   cd timer-app
+
+
+By Default 
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
