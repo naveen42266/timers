@@ -260,7 +260,7 @@ const HomeScreen: React.FC = () => {
             (
               <View>
                 {categories.length === 0 ? (
-                  <Text style={styles.emptyText}>No timers in this category</Text>
+                  <Text style={styles.emptyText}>No timers</Text>
                 ) : (
                   <FlatList
                     data={categories}
