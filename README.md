@@ -2,7 +2,11 @@
 
 A customizable timer application with categories, progress tracking, and history logging. Built with React Native, TypeScript, and AsyncStorage for local data persistence.
 
-![App APK](https://drive.google.com/file/d/1CjtUYdLNq_RvHywV2HG25fYozfNr0WjZ/view?usp=sharing)
+You download and use (Platform: Android) APK :
+
+[Drive Link](https://drive.google.com/file/d/1CjtUYdLNq_RvHywV2HG25fYozfNr0WjZ/view?usp=sharing)
+
+While installing go with install anyway without google play store scanning.
 
 ## ✨ Features
 - 🕒 **Multiple Timers**: Create, start, pause, and reset timers
